@@ -1,0 +1,16 @@
+.ant-menu-horizontal{
+    text-align: right;
+    padding-right:15px ;
+}
+.nav_title{
+    position: absolute;
+    left: 55px;
+    top: 0;
+    cursor: pointer;
+    color: #000;
+    :hover{
+        color: #fff;
+        font-weight: 400;
+        transform: scale(1.5);
+    }
+}

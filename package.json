@@ -1,14 +1,12 @@
 {
-  "name": "holle",
-  "version": "1.0.0",
-  "author": "reco_luan",
   "scripts": {
-    "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "devDependencies": {
-    "vuepress": "1.7.1",
-    "vuepress-theme-reco": "1.6.1"
+    "vuepress": "^2.0.0-beta.8"
   },
-  "description": "fff"
+  "dependencies": {
+    "ant-design-vue": "^2.1.2"
+  }
 }

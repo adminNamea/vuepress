@@ -1,0 +1,11 @@
+{
+    "name": "vuepress-theme-white",
+    "version": "1.0.0",
+    "keywords": [
+        "vuepress-theme"
+    ],
+    "main": "lib/index.ts",
+    "files": [
+        "lib"
+    ]
+}
